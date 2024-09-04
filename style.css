@@ -1,0 +1,66 @@
+body {
+
+	font-family: Arial, sans-serif;
+
+}
+
+
+
+#photo-upload {
+
+	margin-bottom: 10px;
+
+}
+
+
+
+#generate-signature {
+
+	background-color: #4CAF50;
+
+	color: #fff;
+
+	padding: 10px 20px;
+
+	border: none;
+
+	border-radius: 5px;
+
+	cursor: pointer;
+
+}
+
+
+
+#generate-signature:hover {
+
+	background-color: #3e8e41;
+
+}
+
+
+
+#download-signed-photo {
+
+	background-color: #4CAF50;
+
+	color: #fff;
+
+	padding: 10px 20px;
+
+	border: none;
+
+	border-radius: 5px;
+
+	cursor: pointer;
+
+}
+
+
+
+#download-signed-photo:hover {
+
+	background-color: #3e8e41;
+
+}
+
